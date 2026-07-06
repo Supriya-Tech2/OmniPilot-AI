@@ -292,7 +292,7 @@ Everything runs entirely on your local machine.
 
 # 👨‍💻 Author
 
-**Abhishek Mehra**
+**Supriya Mondal**
 
 Built with ❤️ for **AI Engineering & Multi-Agent Systems**
 
